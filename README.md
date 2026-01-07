@@ -1,5 +1,6 @@
 # SW-Font
-Official implementation of "Structure-Aware Few-shot Font Generation" using Geometry-Guided Content Adaptation (G-GCA) and Width Estimation Network (WES-Net).
+Official implementation of "SW-Font: Few-shot font generation based on physically-grounded stroke force".
+
 # Structure-Aware Font Diffusion with G-GCA and WES-Net
 (Coming soon)
 
