@@ -24,11 +24,7 @@ Our method consists of two key components:
 (The training scripts and usage instructions will be updated here.)
 
 ## 📊 Results
-
-| Method | SSIM ↑ | RMSE ↓ | FID ↓ |
-| :--- | :---: | :---: | :---: |
-| FontDiffuser (Baseline) | 0.xxx | 0.xxx | xx.x |
-| **Ours (G-GCA + WES)** | **0.xxx** | **0.xxx** | **xx.x** |
+(Coming soon)
 
 ## 📝 Citation
 If you find our work useful, please consider citing:
